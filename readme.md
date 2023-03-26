@@ -2,11 +2,11 @@
 
 ## O que é o projeto?
 
-- É feito com HTML, CSS e JavaScript
-
 - Apresenta uma visualização da webcam com possibilidade de adição de diferentes filtros visuais
 
 - Ainda conta com uma visualização auxiliar para comparação das mudanças
+
+- Feito com HTML, CSS e JavaScript
 
 ## Aprendizados
 
